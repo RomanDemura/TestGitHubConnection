@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitHubConnection</string>
+    <string name="hello">Test Git</string>
 </resources>
